@@ -1,6 +1,6 @@
 # Hi there, I'm Ferry Khusnil Arief, S.Kom. 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio-153e5c?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-eta-ten-60.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio-153e5c?style=for-the-badge&logo=vercel&logoColor=white)](https://ariefshecter.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferry-khusnil-arief/)
 [![Email](https://img.shields.io/badge/Email-ceryover%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceryover@gmail.com)
 
@@ -20,7 +20,7 @@ Passionate about **Full Stack Web Development**, **API Architecture**, **Data An
 
 ### 🚀 Highlighted Projects
 
-- 🌐 **[my-portfolio](https://github.com/ariefshecter/my-portfolio):** Modern, static-first portfolio built with Next.js 16, React 19, strict TypeScript, Tailwind CSS, and automated Vitest suite. ([Live Demo](https://my-portfolio-eta-ten-60.vercel.app))
+- 🌐 **[my-portfolio](https://github.com/ariefshecter/my-portfolio):** Modern, static-first portfolio built with Next.js 16, React 19, strict TypeScript, Tailwind CSS, and automated Vitest suite. ([Live Demo](https://ariefshecter.vercel.app))
 - 📊 **[sistem-rapor](https://github.com/ariefshecter/sistem-rapor):** Multi-role academic reporting and grading system built using Laravel 12, MySQL, Breeze auth, role middleware, and automated DomPDF report generation.
 - 🔬 **[gamer-clustering-kmeans](https://github.com/ariefshecter/gamer-clustering-kmeans):** Quantitative gamer segmentation research pipeline in Python utilizing K-Means, Silhouette evaluation (score 0.497), and PCA visualization.
 - 🧠 **[Comparative Analysis CNN Transfer Learning](https://github.com/ariefshecter/Comparative-Analysis-of-InceptionV3-ResNet152V2-and-Xception-for-Animal-Image-Classification):** Benchmarking InceptionV3, ResNet152V2, and Xception architectures using Keras/TensorFlow.
@@ -28,7 +28,7 @@ Passionate about **Full Stack Web Development**, **API Architecture**, **Data An
 ---
 
 ### 📬 Get In Touch
-- 🌐 **Live Website:** [my-portfolio-eta-ten-60.vercel.app](https://my-portfolio-eta-ten-60.vercel.app)
+- 🌐 **Live Website:** [ariefshecter.vercel.app](https://ariefshecter.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/ferry-khusnil-arief](https://www.linkedin.com/in/ferry-khusnil-arief/)
 - 📧 **Email:** [ceryover@gmail.com](mailto:ceryover@gmail.com)
 - 📱 **WhatsApp:** [+62 877-9023-9132](https://wa.me/6287790239132)
